@@ -5,7 +5,15 @@
 1- Home => that include all books are rendered \
 2- Favourites => that have all books that user added to favourites ... books categorized by authors \
 3- Book Deatils \
-4- not found => it display when write strange route\
+4- not found => it display when write strange route
+
+## Notes 
+hover to card to show icon that can you add to favourite
+
+## Extra features
+
+1- Responsive \
+2- Pagination with maximum 50 books per page
 
 ## Available Scripts
 
