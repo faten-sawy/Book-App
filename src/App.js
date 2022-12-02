@@ -1,12 +1,14 @@
 import { Route,Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import Favourites from "./pages/Favourites";
-import BookDetails from "./pages/Details";
-import NotFound from "./pages/NotFound";
+import Home from "./Pages/Home";
+import Favourites from "./Pages/Favourites";
+import BookDetails from "./Pages/Details";
+import NotFound from "./Pages/NotFound";
+import NavBar from "./Components/NavBar";
 function App() {
  
   return (
     <div className="App">
+    <NavBar/>
       <Routes>
         <Route path="/" exact element={<Home/>}/>
         <Route path="/favourites" element={<Favourites/>}/>

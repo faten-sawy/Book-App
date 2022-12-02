@@ -72,6 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Extra
 
-### Not Found Page 
+### Not Found Page  #Done
 ### Lazy Image Load
 ### Loading Page 
