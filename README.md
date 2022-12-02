@@ -2,10 +2,10 @@
 
 
 ## Project contains 4 pages 
-1- Home => that include all books are rendered
-2- Favourites => that have all books that user added to favourites ... books categorized by authors
-3- Book Deatils
-4- not found => it display when write strange route
+1- Home => that include all books are rendered \
+2- Favourites => that have all books that user added to favourites ... books categorized by authors \
+3- Book Deatils \
+4- not found => it display when write strange route \
 
 ## Available Scripts
 
